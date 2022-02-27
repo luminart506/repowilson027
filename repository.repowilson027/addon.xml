@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.repowilson027" name="REPO-WILSON-027.002" version="0.2.7" provider-name="luminart506">
+    <extension point="xbmc.addon.repository" name="repository.repowilson027">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/luminart506/repowilson027/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/luminart506/repowilson027/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/luminart506/repowilson027/master/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>REPO-WILSON-027.022</summary>
+        <description>INSTALAÇÃO VIA LINK</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
